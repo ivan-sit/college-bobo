@@ -1,0 +1,1 @@
+import TinderCard from 'react-tinder-card'
